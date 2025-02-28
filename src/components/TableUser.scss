@@ -1,0 +1,13 @@
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    i{
+        cursor: pointer;
+    }
+}
+
+.custom-table{
+    overflow-x: auto;
+}
